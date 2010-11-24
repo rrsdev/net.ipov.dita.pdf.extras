@@ -12,3 +12,7 @@ The main problem I see with the current version of this code is that there is no
 indication that the image has been scaled, maybe either a flag to log all scaled images,
 or to add a small indicator of some sort would allow authors to review and tweak any
 images where the scaling had created a major problem.
+
+
+Small additional PDF formatting tweaks  may be added to this project in the future.
+If you have any, please feel free to write me with them.
