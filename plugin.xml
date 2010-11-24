@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="net.ipov.dita.pdf.extras">
+    <!-- customize some of the formatting of the 'pdf2' (aka 'fo') plugin. -->
+
+    <!-- We want to dump the contents of the build_plugin.xml file into the main build.xml  -->
+    <feature extension="dita.xsl.xslfo" value="xsl/image_overrides.xsl" type="file" />
+
+</plugin>
